@@ -11,3 +11,4 @@ print repl_dict[0]
 print str_file
 
 scientific_num = re.compile("^[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?$")
+bla
